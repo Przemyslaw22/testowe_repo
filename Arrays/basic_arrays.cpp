@@ -8,6 +8,7 @@ int main()
     cout << *a << endl;
     cout << *(a + 1) << endl;
     int *p;
+    int g=0;
     p = a;
     cout << *p << endl;
     char c[] = "Abhishek Chandra";
