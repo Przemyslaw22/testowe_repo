@@ -13,6 +13,7 @@ int main()
     cout << "&p = " << &p << endl;
     cout << "p = " << p << endl;
     int b = 20;
+    int siema = 2;
     *p = b;
     p = &b;
     cout << "p = " << p << endl;
